@@ -1,2 +1,6 @@
+Enllaç al Game Design Document
 https://docs.google.com/document/d/1VZNXtrYsnZmvY6q4MZJrQgqLv-owmrl7melIA6AD1Xg/edit?tab=t.0
+Enllaç als scrips
 https://drive.google.com/drive/u/0/folders/18B350TsQp-4H0uHfEOlQ-LNEHEus8GWp
+Enllaç als executables:
+https://drive.google.com/drive/folders/1wspRcPq2pn4pu7Iqw-hFX-UeyUIKRwLf
